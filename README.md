@@ -15,3 +15,9 @@ Código manejo de python avanzado
 - creación del archivo clousures.py
 - multiplicar una entrada de string por el numero de veces
   que se ingrese en la función
+
+## Decoradores
+
+- Función que recibe como parametro otra función, le añade nuevas funcionalidades y retorna una función diferente.
+- Creacion del archivo decorators.py
+- Creación de decoradores para averiguar cuanto tiempo tarde en ejecutarse una función
