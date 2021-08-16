@@ -9,3 +9,9 @@ Código manejo de python avanzado
   - iniciar el entorno virtual .\venv\Scripts\activate
 - instalar la libreria mypy (para darle tipado fuerte)
   - pip install mypy
+
+## Clousures
+
+- creación del archivo clousures.py
+- multiplicar una entrada de string por el numero de veces
+  que se ingrese en la función
