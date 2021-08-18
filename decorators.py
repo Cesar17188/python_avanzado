@@ -17,7 +17,8 @@ def random_func():
 
 @execution_time
 def suma(a: int, b:int) -> int:
-    return a + b
+    # return a + b
+    print (a + b)
     
 @execution_time
 def saludo(nombre='Cesar'):
